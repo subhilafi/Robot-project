@@ -1,5 +1,6 @@
-void loop(){
+int var = 0;
 
+void loop(){
 
 
 
