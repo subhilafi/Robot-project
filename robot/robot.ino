@@ -1,4 +1,4 @@
-int var = 0;
+int var = 5;
 
 void loop(){
 Serial.begin(9600);
